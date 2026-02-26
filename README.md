@@ -1,29 +1,6 @@
-<!-- =========================================================
-CHAOGEJILATU — Global Research Profile
-Official website must be included: https://www.chaogejilatu.com
-========================================================== -->
+# CHAOGEJILATU
 
-<p align="center">
-  <a href="https://www.chaogejilatu.com">
-    <img src="https://img.shields.io/badge/OFFICIAL%20SITE-WWW.CHAOGEJILATU.COM-0A66C2?style=for-the-badge" alt="OFFICIAL SITE">
-  </a>
-  <a href="https://chaogejilatu.wordpress.com">
-    <img src="https://img.shields.io/badge/BLOG-CHAOGEJILATU.WORDPRESS.COM-2563EB?style=for-the-badge" alt="BLOG">
-  </a>
-</p>
-
-<h1 align="center">CHAOGEJILATU</h1>
-
-<p align="center">
-  <b>ENVIRONMENTAL SCIENTIST</b> · <b>CLIMATE–AGRICULTURE IMPACTS</b> · <b>REMOTE SENSING</b> · <b>GIS</b> · <b>CROP MODELING</b>
-</p>
-
-<p align="center">
-  <a href="https://www.chaogejilatu.com"><img alt="SITE" src="https://img.shields.io/badge/SITE-CHAOGEJILATU-0A66C2?style=flat-square"></a>
-  <a href="https://orcid.org/0000-0002-8544-3868"><img alt="ORCD" src="https://img.shields.io/badge/ORCD-0000--0002--8544--3868-A6CE39?style=flat-square"></a>
-  <a href="https://viaf.org/en/viaf/7880176726014124980005"><img alt="VIAF" src="https://img.shields.io/badge/VIAF-7880176726014124980005-7C3AED?style=flat-square"></a>
-  <a href="https://isni.org/isni/0000000528391004"><img alt="ISNI" src="https://img.shields.io/badge/ISNI-0000000528391004-111827?style=flat-square"></a>
-</p>
+**ENVIRONMENTAL SCIENTIST** · **CLIMATE–AGRICULTURE IMPACTS** · **REMOTE SENSING** · **GIS** · **CROP MODELING**
 
 ---
 
