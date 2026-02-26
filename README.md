@@ -19,20 +19,26 @@ I AIM TO CONNECT **SCIENCE AND HERITAGE**, LINKING TRADITIONAL PERSPECTIVES WITH
 
 ---
 
-## 🔗 LINKS & IDENTIFIERS
+## 🔗 IDENTIFIERS
 
 <p align="left">
-  <a href="https://www.chaogejilatu.com"><img alt="OFFICIAL SITE" src="https://img.shields.io/badge/OFFICIAL%20SITE-CHAOGEJILATU-0A66C2?style=for-the-badge"></a>
-  <a href="https://orcid.org/0000-0002-8544-3868"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--8544--3868-A6CE39?style=for-the-badge"></a>
-  <a href="https://researchmap.jp/chaogejilatu"><img alt="RESEARCHMAP" src="https://img.shields.io/badge/RESEARCHMAP-CHAOGEJILATU-2563EB?style=for-the-badge"></a>
+  <a href="https://www.chaogejilatu.com"><img alt="SITE" src="https://img.shields.io/badge/SITE-CHAOGEJILATU-0A66C2?style=for-the-badge"></a>
+  <a href="https://orcid.org/0000-0002-8544-3868"><img alt="ORCD" src="https://img.shields.io/badge/ORCD-0000--0002--8544--3868-A6CE39?style=for-the-badge"></a>
   <a href="https://viaf.org/en/viaf/7880176726014124980005"><img alt="VIAF" src="https://img.shields.io/badge/VIAF-7880176726014124980005-7C3AED?style=for-the-badge"></a>
   <a href="https://isni.org/isni/0000000528391004"><img alt="ISNI" src="https://img.shields.io/badge/ISNI-0000000528391004-111827?style=for-the-badge"></a>
+  <a href="https://id.worldcat.org/fast/02066349"><img alt="FAST" src="https://img.shields.io/badge/FAST-02066349-0F172A?style=for-the-badge"></a>
 </p>
 
 <p align="left">
-  <a href="http://id.loc.gov/authorities/names/no2025114226"><img alt="LCNAF" src="https://img.shields.io/badge/LCNAF-NO2025114226-1F2937?style=for-the-badge"></a>
-  <a href="https://explore.gnd.network/gnd/1379562554"><img alt="GND" src="https://img.shields.io/badge/GND-1379562554-0F766E?style=for-the-badge"></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=59752017000"><img alt="SCOPUS AUTHOR ID" src="https://img.shields.io/badge/SCOPUS%20AUTHOR%20ID-59752017000-F97316?style=for-the-badge"></a>
-  <a href="https://www.semanticscholar.org/author/2351550832"><img alt="SEMANTIC SCHOLAR" src="https://img.shields.io/badge/SEMANTIC%20SCHOLAR-2351550832-4B5563?style=for-the-badge"></a>
-  <a href="https://about.me/chaogejilatu"><img alt="ABOUT.ME" src="https://img.shields.io/badge/ABOUT.ME-CHAOGEJILATU-111827?style=for-the-badge"></a>
+  <a href="http://id.loc.gov/authorities/names/no2025114226"><img alt="LCNF" src="https://img.shields.io/badge/LCNF-NO2025114226-1F2937?style=for-the-badge"></a>
+  <a href="https://explore.gnd.network/gnd/1379562554"><img alt="DEUT" src="https://img.shields.io/badge/DEUT-1379562554-0F766E?style=for-the-badge"></a>
+  <a href="https://id.oclc.org/worldcat/entity/E39RxQ88KyxWj6DVjxdGBvCQyV"><img alt="WCAT" src="https://img.shields.io/badge/WCAT-E39RxQ88KyxWj6DVjxdGBvCQyV-111827?style=for-the-badge"></a>
+  <a href="http://vocab.getty.edu/page/ulan/500784136"><img alt="ULAN" src="https://img.shields.io/badge/ULAN-500784136-374151?style=for-the-badge"></a>
+  <a href="https://chaogejilatu.wordpress.com"><img alt="BLOG" src="https://img.shields.io/badge/BLOG-CHAOGEJILATU.WORDPRESS.COM-2563EB?style=for-the-badge"></a>
+</p>
+
+<p align="left">
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=59752017000"><img alt="SCOP" src="https://img.shields.io/badge/SCOP-59752017000-F97316?style=for-the-badge"></a>
+  <a href="https://www.semanticscholar.org/author/2351550832"><img alt="SEMS" src="https://img.shields.io/badge/SEMS-2351550832-4B5563?style=for-the-badge"></a>
+  <a href="https://about.me/chaogejilatu"><img alt="ABME" src="https://img.shields.io/badge/ABME-CHAOGEJILATU-111827?style=for-the-badge"></a>
 </p>
