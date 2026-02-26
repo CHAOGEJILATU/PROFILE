@@ -51,5 +51,6 @@ I AIM TO CONNECT **SCIENCE AND HERITAGE**, LINKING TRADITIONAL PERSPECTIVES WITH
 ---
 
 ### 📌 QUICK LINKS
-- OFFICIAL WEBSITE: https://www.chaogejilatu.com  
+- SITE: https://www.chaogejilatu.com  
 - BLOG (WORDPRESS): https://chaogejilatu.wordpress.com
+- CODE: https://github.com/CHAOGEJILATU
